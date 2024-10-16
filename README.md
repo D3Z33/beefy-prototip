@@ -35,13 +35,10 @@ Baixar e Instalar o XAMPP:
 
 Após a instalação, abra o painel de controle do XAMPP.
 Inicie o servidor Apache clicando no botão "Start" ao lado do Apache.
-Colocar o Projeto no Diretório Correto:
-
-## Navegue até a pasta onde o XAMPP foi instalado:
-Windows: C:\xampp\htdocs\
+Colocar o Projeto no Diretório Correto: C:\xampp\htdocs\ cole a pasta completa aqui
 Copie a pasta do projeto que você clonou (beefy-prototip) para dentro da pasta htdocs.
 
-##Acessar o Projeto no Navegador:
+## Acessar o Projeto no Navegador:
 
 ## Após copiar o projeto, abra o navegador e digite o seguinte URL:
 http://localhost/beefy-prototip/landing_page.html
