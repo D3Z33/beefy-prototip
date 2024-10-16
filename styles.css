@@ -1,0 +1,70 @@
+/* Corpo Geral */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #FFFFFF; /* Fundo predominante branco */
+    color: #000000; /* Texto preto */
+}
+
+/* Header */
+header {
+    background-color: #FFD700 !important; /* Forçar fundo amarelo */
+    color: #000000; /* Texto preto */
+}
+
+header h1 {
+    color: #000000; /* Texto preto */
+}
+
+nav a {
+    color: #FFFFFF; /* Links em branco */
+    font-size: 1.1rem;
+    padding: 10px;
+}
+
+/* Seção de Apresentação */
+section {
+    padding: 60px 0;
+    background-color: #FFFFFF; /* Fundo branco */
+}
+
+section h2, section h3 {
+    color: #FFD700; /* Títulos em amarelo */
+}
+
+section p {
+    color: #000000; /* Texto preto */
+    font-size: 1.2rem;
+}
+
+/* Botões */
+.btn-primary, .btn-success {
+    background-color: #FFD700; /* Cor de fundo dos botões em amarelo */
+    border-color: #FFD700; /* Borda do botão também em amarelo */
+    color: #000000; /* Texto preto */
+}
+
+.btn-primary:hover, .btn-success:hover {
+    background-color: #000000; /* Fundo preto ao passar o mouse */
+    border-color: #000000; /* Borda preta */
+    color: #FFFFFF; /* Texto branco */
+}
+
+/* Footer */
+footer {
+    background-color: #000000; /* Fundo preto */
+    color: #FFD700; /* Texto amarelo */
+}
+
+/* Seções com Fundo Amarelo (Opcional) */
+.bg-light {
+    background-color: #FFD700; /* Fundo amarelo */
+}
+
+.bg-dark {
+    background-color: #000000; /* Fundo preto */
+}
+
+.bg-white {
+    background-color: #FFFFFF; /* Fundo branco */
+}
+
